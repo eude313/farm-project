@@ -22,29 +22,37 @@
     }
     
     .hero {
-        height: 40vh;
+        margin: 10px;
+        height: 50vh;
         width: 100%;
         display: flex;
+        border: 3px 3px 5px rgb(148, 147, 147), 3px 3px 5px rgb(148, 147, 147);
     }
     
     #hero-1 {
-        border: 2px solid;
         height: 100%;
-        width: 33%;
+        width: 75%;
     }
     
     #hero-2 {
-        padding: 2%;
+        margin-left: 10%;
+        padding: 0%;
         height: 100%;
-        width: 55%;
+        width: 75%;
         text-align: center;
         justify-content: space-evenly;
     }
     
     #hero-3 {
-        padding-top: 50%;
         width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+    
+    .main {
+        margin: 10px;
+        height: 50vh;
+        width: 100%;
+        display: flex;
     }
