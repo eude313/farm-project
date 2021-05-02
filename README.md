@@ -4,13 +4,15 @@ Based on pure html, css and javascript i was able to design a project that calcu
 
 Built with
 
-_ HTML _ CSS _javascript
+_ HTML 
+_ CSS 
+_javascript
 
 Live demo
 
-[Live demo link ] ()
+[Live demo link ] (https://github.com/eude313/farm-project)
 
-Getting started
+##Getting started
 
 To get a local copy, follow these steps.
 
@@ -18,15 +20,15 @@ To get a local copy, follow these steps.
 
 A working computer and an upto date browser.
 
-Setup
+##Setup
 
 Clone the repository to your folder using Git
 
-$ git clone https: //
+$ git clone https: //https://github.com/eude313/farm-project
 
 Open the index.html file and website should open.
 
-Author
+##Author
 
 GitHub: [@eude313] (https://github.com/eude313)
 
