@@ -1,5 +1,13 @@
 .body {
     margin: 2px 10px;
     padding: 2px 3px;
-    background-image: url(./pictures/AdobeStock_221344370.jpeg);
+}
+
+.nav-wrapper {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+
 }
