@@ -2,10 +2,13 @@
 
 Based on pure html, css and javascript i was able to design a project that calculates my farm produce and my profits
 
+
 Built with
 
-_ HTML 
+_ HTML
+
 _ CSS 
+
 _javascript
 
 Live demo
