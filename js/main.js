@@ -13,13 +13,8 @@ function getProduction() {
     table.innerHTML = "";
     var dat = "";
     dailySale.forEach(x => {
-        dat += '<tr>';
-        dat += '<td>' + 'Production' + x.shedName + '</td>' + '<td>' + x.amount + ' lts/day' + '</td>';
-        dat += '</tr>';
-    });
-    var sum = dailySale.reduce(function(total, shedAmount) {
-        return total + shedAmount.amount;
-    }, 0);
-    dat += "<tr style='font-weight:bold';><td> Total</td><td>" + sum + " litres per day</td><td></td></tr>";
-    table.innerHTML += dat;
-}
+                dat += '<tr>';
+                dat += '<td>' + 'Production' + x.shedName + '</td>' + '<td>' + x.amount + ' lts/day' + '</td>';
+                dat += '</tr>';
+
+            }
